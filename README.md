@@ -38,3 +38,5 @@ Overall, working on this project has been a valuable learning experience, and I 
 
 
 Link to SLIDES:https://docs.google.com/presentation/d/1YURiUeHSjnI2DKlekPpysc4x-Yk97uRHM4miIKHNNpQ/edit#slide=id.g1f2e5b20299_0_426
+
+Link to loom video:https://www.loom.com/share/febff57f91494d108359c101687fb557?sid=1f3734c5-c41c-4e85-9bc9-1cb33b10a624
